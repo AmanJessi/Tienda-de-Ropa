@@ -32,7 +32,7 @@ const Header = () => {
                 </span>
 
                 <span>
-                    Nombre: Amanda Jessica Rodriguez  CI: 14039779
+                    Nombre: Amanda Jessica Rodriguez Mamani  CI: 14039779
                 </span>
 
             </div>
