@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import "tailwindcss";
+
+body {
+  font-family: "Comic Sans MS", cursive;
+}
+
+@theme{
+  --animate-brand: animatebrands 12s linear infinite
+}
+
+@keyframes animatebrands {
+  from{
+    transform: translateX(100vw);
+  }
+  to{
+    transform: translateX(-100vw);
+  }
+}
